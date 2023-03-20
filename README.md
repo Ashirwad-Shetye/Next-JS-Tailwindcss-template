@@ -1,0 +1,1 @@
+# Next-JS-Tailwindcss-template
